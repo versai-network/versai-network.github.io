@@ -32,6 +32,6 @@
     },
     "devDependencies": {
         "browser-sync": "2.26.4",
-        "gulp": "4.0.0"
+        "gulp": "4.0.1"
     }
 }
